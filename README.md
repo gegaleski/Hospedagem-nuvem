@@ -50,7 +50,7 @@ git clone URL_DO_REPO
 
 ## 9 - copiar a pasta dist para a pasta do nginx: 
 ```bash
-sudo mv ./CAMINHO_DA_SUA_DIST/dist/* /var/www/html/
+sudo mv ./Hospedagem-nuvem/dist/* /var/www/html/
 ```
 
 
